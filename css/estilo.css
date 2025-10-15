@@ -1,0 +1,28 @@
+body{
+    font-family:  cursive
+}
+nav{
+    display: flex;
+    
+}
+
+nav > ul  {
+
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    
+}
+section{
+    background-color: rgba(139, 139, 139, 0.596);
+    border-radius: 2% 2% 2% 2% ;
+    margin: 11px;
+    padding: 5px;
+}
+img{
+    width: 150px;
+}
+.espadas{
+    display: flex;
+}
+
